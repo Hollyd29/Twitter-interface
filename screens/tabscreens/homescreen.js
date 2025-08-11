@@ -1,5 +1,5 @@
 import { Text, View } from "react-native";
-
+import images from "../../assets/";
 function HomeScreen() {
   return (
     <View style={{ padding: 20 }}>
